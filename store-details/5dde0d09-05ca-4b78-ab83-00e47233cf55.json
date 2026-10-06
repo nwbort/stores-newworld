@@ -1,0 +1,81 @@
+{
+  "id": "5dde0d09-05ca-4b78-ab83-00e47233cf55",
+  "name": "New World Otaki",
+  "banner": "MNW",
+  "address": "155-163 Main Highway, Otaki, 5512",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -40.763486,
+  "longitude": 175.153556,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "063648640",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/4281/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000108029",
+  "region": "NI",
+  "salesOrgId": "4000",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "155-163 Main Highway",
+    "cityName": "Otaki",
+    "regionName": "Wellington",
+    "postalCode": "5512",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

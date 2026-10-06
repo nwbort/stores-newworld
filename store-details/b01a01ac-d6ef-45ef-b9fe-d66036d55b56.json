@@ -1,0 +1,85 @@
+{
+  "id": "b01a01ac-d6ef-45ef-b9fe-d66036d55b56",
+  "name": "New World Pahiatua",
+  "banner": "MNW",
+  "address": "101 Main Street, Pahiatua, 4910",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -40.452412,
+  "longitude": 175.841836,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "9:00 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "063767453",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/4289/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000108030",
+  "region": "NI",
+  "salesOrgId": "4000",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "101 Main Street",
+    "cityName": "Pahiatua",
+    "regionName": "Manawatu-Wanganui",
+    "postalCode": "4910",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": true,
+    "fan": "5338167",
+    "entitlementFan": "5348507",
+    "price": 24,
+    "minimumSpend": 80
+  },
+  "minimumOrderAmountInCents": 100
+}

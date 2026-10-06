@@ -1,0 +1,81 @@
+{
+  "id": "65201d94-8805-4be8-b1ba-f547d6bf7ecd",
+  "name": "New World Taihape",
+  "banner": "MNW",
+  "address": "112 Hautapu Street, Taihape, 4720",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -39.67708,
+  "longitude": 175.798534,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:30 AM",
+      "close": "7:30 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:30 AM",
+      "close": "7:30 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:30 AM",
+      "close": "7:30 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:30 AM",
+      "close": "7:30 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:30 AM",
+      "close": "7:30 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:30 AM",
+      "close": "7:30 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:30 AM",
+      "close": "7:30 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "06 388 0118",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/4270/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000108038",
+  "region": "NI",
+  "salesOrgId": "4000",
+  "onboardingMode": false,
+  "defaultCollectType": "LOCKER",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "112 Hautapu Street",
+    "cityName": "Taihape",
+    "regionName": "Manawatu-Wanganui",
+    "postalCode": "4720",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

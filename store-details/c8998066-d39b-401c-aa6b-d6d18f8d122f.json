@@ -1,0 +1,86 @@
+{
+  "id": "c8998066-d39b-401c-aa6b-d6d18f8d122f",
+  "name": "New World New Lynn",
+  "banner": "MNW",
+  "address": "2-6 Crown Lynn Place, New Lynn, Auckland, 0600",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -36.910865,
+  "longitude": 174.685569,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "098251110",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/4109/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000106583",
+  "region": "NI",
+  "salesOrgId": "4000",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "2-6 Crown Lynn Place",
+    "cityName": "Auckland",
+    "additionalCityName": "New Lynn",
+    "regionName": "Auckland",
+    "postalCode": "0600",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": true,
+    "fan": "5338167",
+    "entitlementFan": "5348507",
+    "price": 24,
+    "minimumSpend": 80
+  },
+  "minimumOrderAmountInCents": 100
+}

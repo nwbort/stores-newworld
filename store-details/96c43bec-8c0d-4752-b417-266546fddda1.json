@@ -1,0 +1,85 @@
+{
+  "id": "96c43bec-8c0d-4752-b417-266546fddda1",
+  "name": "New World Whakatane",
+  "banner": "MNW",
+  "address": "51 Kakahoroa Drive, Whakatane, 3120",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -37.950929,
+  "longitude": 176.993759,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "073060400",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/4249/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000103014",
+  "region": "NI",
+  "salesOrgId": "4000",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "51 Kakahoroa Drive",
+    "cityName": "Whakatane",
+    "regionName": "Bay of Plenty",
+    "postalCode": "3120",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": true,
+    "fan": "5338167",
+    "entitlementFan": "5348507",
+    "price": 24,
+    "minimumSpend": 80
+  },
+  "minimumOrderAmountInCents": 100
+}

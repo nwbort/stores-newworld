@@ -1,0 +1,83 @@
+{
+  "id": "bae1da58-ac6b-4ef2-816d-4932691218d1",
+  "name": "New World St Martins",
+  "banner": "MNW",
+  "address": "92 Wilsons Road, Saint Martins, Christchurch, 8023",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -43.5578,
+  "longitude": 172.6548,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:30 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:30 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:30 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:30 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:30 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:30 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:30 AM",
+      "close": "10:00 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "033370811",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/8003/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000008003",
+  "region": "SI",
+  "salesOrgId": "11",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "houseID": "92",
+    "streetName": "Wilsons Road",
+    "cityName": "Christchurch",
+    "regionName": "Canterbury",
+    "districtName": "Saint Martins",
+    "postalCode": "8023",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

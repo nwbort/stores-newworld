@@ -1,0 +1,86 @@
+{
+  "id": "c3a42e9d-ac58-4abf-be43-17920c720540",
+  "name": "New World Stonefields",
+  "banner": "MNW",
+  "address": "100 Lunn Avenue, Mt Wellington, Auckland, 1072",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -36.890274,
+  "longitude": 174.831971,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "7:00 AM",
+      "close": "10:00 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "095728840",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/4261/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000106614",
+  "region": "NI",
+  "salesOrgId": "4000",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "100 Lunn Avenue",
+    "cityName": "Auckland",
+    "additionalCityName": "Mt Wellington",
+    "regionName": "Auckland",
+    "postalCode": "1072",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": true,
+    "fan": "5338167",
+    "entitlementFan": "5348507",
+    "price": 24,
+    "minimumSpend": 80
+  },
+  "minimumOrderAmountInCents": 100
+}

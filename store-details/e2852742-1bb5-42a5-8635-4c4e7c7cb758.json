@@ -1,0 +1,85 @@
+{
+  "id": "e2852742-1bb5-42a5-8635-4c4e7c7cb758",
+  "name": "New World Marton",
+  "banner": "MNW",
+  "address": "427 Wellington Road, Marton, 4710",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -40.07666,
+  "longitude": 175.379646,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "6:30 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "6:30 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "6:30 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "6:30 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "6:30 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "6:30 AM",
+      "close": "9:00 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "6:30 AM",
+      "close": "9:00 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "063277929",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000010/4112/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000108019",
+  "region": "NI",
+  "salesOrgId": "4000",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "streetName": "427 Wellington Road",
+    "cityName": "Marton",
+    "regionName": "Manawatu-Wanganui",
+    "postalCode": "4710",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": true,
+    "fan": "5338167",
+    "entitlementFan": "5348507",
+    "price": 24,
+    "minimumSpend": 80
+  },
+  "minimumOrderAmountInCents": 100
+}

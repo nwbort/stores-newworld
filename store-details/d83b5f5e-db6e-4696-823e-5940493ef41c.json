@@ -1,0 +1,83 @@
+{
+  "id": "d83b5f5e-db6e-4696-823e-5940493ef41c",
+  "name": "New World Temuka",
+  "banner": "MNW",
+  "address": "185 King Street, Temuka, Temuka, 7920",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -44.2413,
+  "longitude": 171.2763,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "036157770",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/8146/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000008146",
+  "region": "SI",
+  "salesOrgId": "11",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "houseID": "185",
+    "streetName": "King Street",
+    "cityName": "Temuka",
+    "regionName": "Canterbury",
+    "districtName": "Temuka",
+    "postalCode": "7920",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}

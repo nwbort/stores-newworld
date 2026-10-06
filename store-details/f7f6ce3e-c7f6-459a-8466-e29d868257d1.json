@@ -1,0 +1,82 @@
+{
+  "id": "f7f6ce3e-c7f6-459a-8466-e29d868257d1",
+  "name": "New World Ravenswood",
+  "banner": "MNW",
+  "address": "10 Bob Robertson Drive, Woodend, 7691",
+  "clickAndCollect": true,
+  "delivery": true,
+  "latitude": -43.308,
+  "longitude": 172.6713,
+  "openingHours": [
+    {
+      "day": "MONDAY",
+      "dayShort": "Mon",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "TUESDAY",
+      "dayShort": "Tue",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "WEDNESDAY",
+      "dayShort": "Wed",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "THURSDAY",
+      "dayShort": "Thu",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "FRIDAY",
+      "dayShort": "Fri",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "SATURDAY",
+      "dayShort": "Sat",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    },
+    {
+      "day": "SUNDAY",
+      "dayShort": "Sun",
+      "open": "8:00 AM",
+      "close": "8:30 PM"
+    }
+  ],
+  "phone": "0800 4 NEW WORLD",
+  "localPhone": "6433538700",
+  "linkDetails": {
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/8088/liquor-license.pdf"
+  },
+  "physicalStoreCode": "0000008088",
+  "region": "SI",
+  "salesOrgId": "11",
+  "onboardingMode": false,
+  "defaultCollectType": "CONCIERGE",
+  "expressTimeslots": true,
+  "expressProductLimit": 0,
+  "onlineActive": true,
+  "physicalActive": true,
+  "servicesAndFacilities": [],
+  "physicalAddress": {
+    "houseID": "10",
+    "streetName": "Bob Robertson Drive",
+    "cityName": "Woodend",
+    "regionName": "Canterbury",
+    "postalCode": "7691",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  "deliverySubscriptionProperties": {
+    "available": false
+  },
+  "minimumOrderAmountInCents": 100
+}
