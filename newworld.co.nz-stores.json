@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "01076456-6c8a-42c3-a647-2e70a94c4e6c",
+    "name": "New World Morrinsville",
+    "storeCode": "0000106527",
+    "region": "Waikato",
+    "city": "Morrinsville"
+  },
+  {
+    "id": "02874261-edfe-4daa-886c-09429e2d06d7",
+    "name": "New World Stratford",
+    "storeCode": "0000108037",
+    "region": "Taranaki",
+    "city": "Stratford"
+  },
+  {
+    "id": "04ba529d-3dee-4f86-adb6-62b0111114d7",
+    "name": "New World Waimate",
+    "storeCode": "0000008140",
+    "region": "Canterbury",
+    "city": "Waimate"
+  },
+  {
+    "id": "04de234b-9f3e-4388-9662-7a4c8d7180c8",
+    "name": "New World Merrilands",
+    "storeCode": "0000108021",
+    "region": "Taranaki",
+    "city": "New Plymouth"
+  },
+  {
+    "id": "0637c08c-ac36-4940-8582-38e44a4812fa",
+    "name": "New World Northwood",
+    "storeCode": "0000008111",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "07828d6b-4c90-430e-8ea9-37c671d375e9",
+    "name": "New World Rototuna",
+    "storeCode": "0000103313",
+    "region": "Waikato",
+    "city": "Hamilton"
+  },
+  {
+    "id": "0870db3b-2e91-43b7-89aa-ce3c031b3856",
+    "name": "New World Greenmeadows",
+    "storeCode": "0000108009",
+    "region": "Hawkes Bay",
+    "city": "Napier"
+  },
+  {
+    "id": "0d045690-bd75-42d8-a7bc-ee44aa57fc61",
+    "name": "New World Waiuku",
+    "storeCode": "0000106172",
+    "region": "Auckland",
+    "city": "Waiuku"
+  },
+  {
+    "id": "0f82d3fe-acd0-4e98-b3e7-fbabbf8b8ef5",
+    "name": "New World Orewa",
+    "storeCode": "0000106235",
+    "region": "Auckland",
+    "city": "Orewa"
+  },
+  {
+    "id": "10de9574-cf98-4bc8-973d-3d3e36cb0c4d",
+    "name": "New World Waitaki",
+    "storeCode": "0000008101",
+    "region": "Otago",
+    "city": "Oamaru"
+  },
+  {
+    "id": "11b389ec-b197-4476-9b7f-2eaeffa2c1c9",
+    "name": "New World Ohakune",
+    "storeCode": "0000108027",
+    "region": "Manawatu-Wanganui",
+    "city": "Ohakune"
+  },
+  {
+    "id": "1257ed9a-1790-4ad0-beae-383397043e35",
+    "name": "New World Carterton",
+    "storeCode": "0000108003",
+    "region": "Manawatu-Wanganui",
+    "city": "Carterton"
+  },
+  {
+    "id": "12c83069-9220-466b-9145-6ac5706d841c",
+    "name": "New World Timaru",
+    "storeCode": "0000008116",
+    "region": "Canterbury",
+    "city": "Timaru"
+  },
+  {
+    "id": "177c82e0-7343-434c-8b98-9c20e72561c2",
+    "name": "New World Hillcrest",
+    "storeCode": "0000103177",
+    "region": "Waikato",
+    "city": "Hamilton"
+  },
+  {
+    "id": "1898a189-acf3-4320-8704-7a9cc6b3924d",
+    "name": "New World Metro Shore City",
+    "storeCode": "0000108224",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "1926eed9-3d44-4339-9f6e-23c96becab07",
+    "name": "New World Porirua",
+    "storeCode": "0000108033",
+    "region": "Wellington",
+    "city": "Porirua"
+  },
+  {
+    "id": "1ee51b21-c2c8-42c4-b01e-8ef081738e23",
+    "name": "New World Newlands",
+    "storeCode": "0000108025",
+    "region": "Wellington",
+    "city": "Wellington"
+  },
+  {
+    "id": "1fa53d02-1ed5-4dd5-b0ac-fd280425c19a",
+    "name": "New World Masterton",
+    "storeCode": "0000108020",
+    "region": "Manawatu-Wanganui",
+    "city": "Masterton"
+  },
+  {
+    "id": "1fc7bc09-1d0c-4a88-a9f4-5f1536d797dd",
+    "name": "New World Regent",
+    "storeCode": "0000109999",
+    "region": "Northland",
+    "city": "Whangarei"
+  },
+  {
+    "id": "24be83cd-b9f2-47f0-8895-82867e3d4f08",
+    "name": "New World Whanganui",
+    "storeCode": "0000108046",
+    "region": "Manawatu-Wanganui",
+    "city": "Whanganui"
+  },
+  {
+    "id": "2d939bb7-ae26-4cc7-b930-d10e6a4de8a3",
+    "name": "New World Te Atatu",
+    "storeCode": "0000108602",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "2de22d8e-54d4-4575-be10-0d783324ec75",
+    "name": "New World Hokitika",
+    "storeCode": "0000008148",
+    "region": "West Coast",
+    "city": "Hokitika"
+  },
+  {
+    "id": "2fe74bf7-5123-4faa-8fcb-97db954a714d",
+    "name": "New World Waihi",
+    "storeCode": "0000106552",
+    "region": "Bay of Plenty",
+    "city": "Waihi"
+  },
+  {
+    "id": "30a90cf9-3547-46d1-b8b1-cc9ff4af5f88",
+    "name": "New World Ashburton",
+    "storeCode": "0000008025",
+    "region": "Canterbury",
+    "city": "Ashburton"
+  },
+  {
+    "id": "341f876f-9a83-4882-aa79-5e5c9dc8fb2e",
+    "name": "New World Wanaka",
+    "storeCode": "0000008144",
+    "region": "Otago",
+    "city": "W\u0101naka"
+  },
+  {
+    "id": "36fb31df-6b41-4a10-ac9a-db831f4f5f47",
+    "name": "New World Te Rapa",
+    "storeCode": "0000103311",
+    "region": "Waikato",
+    "city": "Hamilton"
+  },
+  {
+    "id": "38b074c4-0e5a-4bd5-b743-d30f28d94982",
+    "name": "New World Metro Willis St",
+    "storeCode": "0000108022",
+    "region": "Wellington",
+    "city": "Wellington"
+  },
+  {
+    "id": "3a5fd4b8-6ea0-4a6c-aeec-5af83e093322",
+    "name": "New World Thorndon",
+    "storeCode": "0000108040",
+    "region": "Wellington",
+    "city": "Wellington"
+  },
+  {
+    "id": "3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
+    "name": "New World Mt Roskill",
+    "storeCode": "0000106585",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "3e66e1a7-bf5c-4f39-9638-c3f57e5c3889",
+    "name": "New World Gate Pa",
+    "storeCode": "0000103315",
+    "region": "Bay of Plenty",
+    "city": "Tauranga"
+  },
+  {
+    "id": "3ee7214b-6df4-4fdb-9dd6-3b2fc252ba6b",
+    "name": "New World Wigram",
+    "storeCode": "0000008133",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "401accb9-6430-45a1-888d-29337ab34f12",
+    "name": "New World Westport",
+    "storeCode": "0000008156",
+    "region": "West Coast",
+    "city": "Westport"
+  },
+  {
+    "id": "403b1c6f-121c-4945-8aa8-fa53a7e59133",
+    "name": "New World Hobsonville",
+    "storeCode": "0000108232",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "412c5dcf-142c-4133-b766-7bd21c30ae01",
+    "name": "New World Whitianga",
+    "storeCode": "0000106693",
+    "region": "Waikato",
+    "city": "Whitianga"
+  },
+  {
+    "id": "420eff4b-5266-4667-8943-a21caf4b1b03",
+    "name": "New World Khandallah",
+    "storeCode": "0000108017",
+    "region": "Wellington",
+    "city": "Wellington"
+  },
+  {
+    "id": "421d563e-ce40-4d5c-a79c-4afb521fc5b0",
+    "name": "New World Oamaru",
+    "storeCode": "0000008142",
+    "region": "Otago",
+    "city": "Oamaru"
+  },
+  {
+    "id": "4664daab-1897-4e69-9117-067b4afd41bb",
+    "name": "New World Onerahi",
+    "storeCode": "0000105008",
+    "region": "Northland",
+    "city": "Whangarei"
+  },
+  {
+    "id": "471d0657-713c-430a-816f-2ca8448e6b35",
+    "name": "New World Aokautere",
+    "storeCode": "0000108001",
+    "region": "Manawatu-Wanganui",
+    "city": "Palmerston North"
+  },
+  {
+    "id": "491d26a4-78fd-4c6e-85e9-5b67fd97e2cc",
+    "name": "New World Eastridge",
+    "storeCode": "0000106675",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "4db31fed-1e21-4884-82a5-cfaa178af8ac",
+    "name": "New World Cambridge",
+    "storeCode": "0000103215",
+    "region": "Waikato",
+    "city": "Cambridge"
+  },
+  {
+    "id": "4f76214d-40a5-4c71-a94f-81d45f3f0a59",
+    "name": "New World Gardens",
+    "storeCode": "0000008093",
+    "region": "Otago",
+    "city": "Dunedin"
+  },
+  {
+    "id": "4ff026b8-a60d-4383-8f0c-6c85f5623afa",
+    "name": "New World Milford",
+    "storeCode": "0000106176",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "5080816d-825d-4a6e-9835-a93d986b1ee0",
+    "name": "New World Rangiora",
+    "storeCode": "0000008132",
+    "region": "Canterbury",
+    "city": "Rangiora"
+  },
+  {
+    "id": "50a98f3b-ffbd-4229-84bc-bfd3c956119f",
+    "name": "New World Centre City",
+    "storeCode": "0000008117",
+    "region": "Otago",
+    "city": "Dunedin"
+  },
+  {
+    "id": "513fc849-3dbe-4333-a148-4edee5baef67",
+    "name": "New World Devonport",
+    "storeCode": "0000106284",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "514b1db1-fe88-4e79-a6dd-f1e0d4d4c01f",
+    "name": "New World Te Kuiti",
+    "storeCode": "0000108171",
+    "region": "Waikato",
+    "city": "Te Kuiti"
+  },
+  {
+    "id": "517424bd-8840-49e7-8206-58f4da24b1d7",
+    "name": "New World Taumarunui",
+    "storeCode": "0000106535",
+    "region": "Waikato",
+    "city": "Taumarunui"
+  },
+  {
+    "id": "51ee2a79-4693-410c-9287-66940847736d",
+    "name": "New World Newmarket",
+    "storeCode": "0000108265",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "524d7a29-550c-4d14-8f89-ec334a60cd6d",
+    "name": "New World Matamata",
+    "storeCode": "0000103182",
+    "region": "Waikato",
+    "city": "Matamata"
+  },
+  {
+    "id": "5255b27a-b224-4f58-a424-144e81ecf244",
+    "name": "New World Miramar",
+    "storeCode": "0000108023",
+    "region": "Wellington",
+    "city": "WELLINGTON"
+  },
+  {
+    "id": "55231137-b7be-48f2-b8a0-6aaed59f4540",
+    "name": "New World Waikanae",
+    "storeCode": "0000108041",
+    "region": "Wellington",
+    "city": "Waikanae"
+  },
+  {
+    "id": "55d4fe03-e82e-44a8-8324-57f3afcf16ba",
+    "name": "New World New Plymouth",
+    "storeCode": "0000108024",
+    "region": "Taranaki",
+    "city": "New Plymouth"
+  },
+  {
+    "id": "59b56cc6-645c-4fa8-836b-c667662d7ec4",
+    "name": "New World Pioneer",
+    "storeCode": "0000108032",
+    "region": "Manawatu-Wanganui",
+    "city": "Palmerston North"
+  },
+  {
+    "id": "5b8f8e3b-e1a0-4a11-b16b-9cfe782c124e",
+    "name": "New World Prestons",
+    "storeCode": "0000008071",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "5c3070dd-312f-4755-a92c-7607b2a694e4",
+    "name": "New World Winton",
+    "storeCode": "0000008118",
+    "region": "Southland",
+    "city": "Winton"
+  },
+  {
+    "id": "5dde0d09-05ca-4b78-ab83-00e47233cf55",
+    "name": "New World Otaki",
+    "storeCode": "0000108029",
+    "region": "Wellington",
+    "city": "Otaki"
+  },
+  {
+    "id": "5eb8d7a2-c5e4-4046-a17e-be2806626fd7",
+    "name": "New World Te Kauwhata",
+    "storeCode": "0000108259",
+    "region": "Waikato",
+    "city": "Te Kauwhata"
+  },
+  {
+    "id": "60928d93-06fa-4d8f-92a6-8c359e7e846d",
+    "name": "New World Metro Queen St",
+    "storeCode": "0000106620",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "63190876-2bd4-4562-ae34-bb5caebab4f9",
+    "name": "New World Birkenhead",
+    "storeCode": "0000106692",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "64c24e04-516d-40b3-958c-96b15797684a",
+    "name": "New World Glenview",
+    "storeCode": "0000103221",
+    "region": "Waikato",
+    "city": "Hamilton"
+  },
+  {
+    "id": "65201d94-8805-4be8-b1ba-f547d6bf7ecd",
+    "name": "New World Taihape",
+    "storeCode": "0000108038",
+    "region": "Manawatu-Wanganui",
+    "city": "Taihape"
+  },
+  {
+    "id": "6739e54f-ffab-47b9-9fe1-899d91a7ad78",
+    "name": "New World Mangawhai",
+    "storeCode": "0000108267",
+    "region": "Northland",
+    "city": "Mangawhai"
+  },
+  {
+    "id": "686c8e35-aa87-40e9-b46e-8ffbad4713aa",
+    "name": "New World Kumeu",
+    "storeCode": "0000106727",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "692b45a2-2ab9-49de-adc3-e4a0ddd661a5",
+    "name": "New World Silverstream",
+    "storeCode": "0000108035",
+    "region": "Wellington",
+    "city": "Upper Hutt"
+  },
+  {
+    "id": "6b9af900-3f25-4fdb-8418-b43a596aee48",
+    "name": "New World Kaikohe",
+    "storeCode": "0000105005",
+    "region": "Northland",
+    "city": "Kaikohe"
+  },
+  {
+    "id": "6defcd27-e944-45ad-982f-768ab3b4c2ac",
+    "name": "New World Paremata",
+    "storeCode": "0000108031",
+    "region": "Wellington",
+    "city": "Porirua"
+  },
+  {
+    "id": "6ea5a1cf-56b8-44eb-856c-fd916560e92e",
+    "name": "New World Queenstown",
+    "storeCode": "0000008069",
+    "region": "Otago",
+    "city": "Queenstown"
+  },
+  {
+    "id": "745d0bda-4b4f-4e4c-ab1f-6d77512f92f4",
+    "name": "New World Hutt City",
+    "storeCode": "0000108013",
+    "region": "Wellington",
+    "city": "Lower Hutt"
+  },
+  {
+    "id": "7508cf88-9fd0-4e71-b2f2-d564b1decf8d",
+    "name": "New World Whangaparaoa",
+    "storeCode": "0000104116",
+    "region": "Auckland",
+    "city": "Whangaparaoa"
+  },
+  {
+    "id": "756356f9-9985-40c9-a368-bf1ea8072b0e",
+    "name": "New World Blenheim",
+    "storeCode": "0000008150",
+    "region": "Marlborough",
+    "city": "Blenheim"
+  },
+  {
+    "id": "773ad0a0-024e-46c5-a94b-df1cf86d25cc",
+    "name": "New World Albany",
+    "storeCode": "0000106714",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "79b03f4b-5e2b-437c-83f8-54d9dace4999",
+    "name": "New World Turangi",
+    "storeCode": "0000103318",
+    "region": "Waikato",
+    "city": "Turangi"
+  },
+  {
+    "id": "7daec5c2-789a-4577-ba1f-39e730acdd27",
+    "name": "New World Karori",
+    "storeCode": "0000108016",
+    "region": "Wellington",
+    "city": "Wellington"
+  },
+  {
+    "id": "80bebcaf-d5a3-4ca6-a999-beab902aef55",
+    "name": "New World Balclutha",
+    "storeCode": "0000008151",
+    "region": "Otago",
+    "city": "Balclutha"
+  },
+  {
+    "id": "810832cb-2748-4e87-bc17-929eab5a5a61",
+    "name": "New World Feilding",
+    "storeCode": "0000108213",
+    "region": "Manawatu-Wanganui",
+    "city": "Feilding"
+  },
+  {
+    "id": "81f807e9-1879-484c-b27e-ded56245c6a4",
+    "name": "New World Fendalton",
+    "storeCode": "0000008023",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "83f2d5fc-132b-4603-aaaf-323e4a426fa0",
+    "name": "New World Wairoa",
+    "storeCode": "0000108262",
+    "region": "Hawkes Bay",
+    "city": "Wairoa"
+  },
+  {
+    "id": "84c3115a-fe09-4bc3-b373-f43cc9e9627c",
+    "name": "New World Rolleston",
+    "storeCode": "0000008108",
+    "region": "Canterbury",
+    "city": "Rolleston"
+  },
+  {
+    "id": "871ff39f-99b5-4030-b035-b2dab7225082",
+    "name": "New World Point Chevalier",
+    "storeCode": "0000108375",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "89ba1656-0ad7-4af0-8694-08bf335e99b9",
+    "name": "New World Wellington City",
+    "storeCode": "0000108047",
+    "region": "Wellington",
+    "city": "Wellington"
+  },
+  {
+    "id": "8d098344-5474-4626-ae1c-90ed0f57306f",
+    "name": "New World Alexandra",
+    "storeCode": "0000008100",
+    "region": "Otago",
+    "city": "Alexandra"
+  },
+  {
+    "id": "8d2ceac4-9520-4b8e-82bb-7867873580da",
+    "name": "New World Broadway",
+    "storeCode": "0000108002",
+    "region": "Manawatu-Wanganui",
+    "city": "Palmerston North"
+  },
+  {
+    "id": "8e5b742c-0957-4b97-b9e2-290d75c02046",
+    "name": "New World Kaikoura",
+    "storeCode": "0000008113",
+    "region": "Marlborough",
+    "city": "Kaikoura"
+  },
+  {
+    "id": "91b26327-b240-4778-a3d8-190dfc8c16f3",
+    "name": "New World Nelson City",
+    "storeCode": "0000008134",
+    "region": "Nelson",
+    "city": "Nelson"
+  },
+  {
+    "id": "91e4dddd-aed7-4ccc-ad0b-dfe25805a495",
+    "name": "New World Remuera",
+    "storeCode": "0000106380",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "95d161ea-9a31-4fca-acbe-96f271d627df",
+    "name": "New World Halswell",
+    "storeCode": "0000008149",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "96c43bec-8c0d-4752-b417-266546fddda1",
+    "name": "New World Whakatane",
+    "storeCode": "0000103014",
+    "region": "Bay of Plenty",
+    "city": "Whakatane"
+  },
+  {
+    "id": "9829c627-42c8-4ad7-b550-f9dba9fcd44a",
+    "name": "New World Cromwell",
+    "storeCode": "0000008155",
+    "region": "Otago",
+    "city": "Cromwell"
+  },
+  {
+    "id": "99798e55-18bb-4f16-9f3e-425c555111a7",
+    "name": "New World Waitara",
+    "storeCode": "0000108045",
+    "region": "Taranaki",
+    "city": "Waitara"
+  },
+  {
+    "id": "997b5318-0d47-4eac-b4ec-bbbd9feb8ae3",
+    "name": "New World Onekawa",
+    "storeCode": "0000108028",
+    "region": "Hawkes Bay",
+    "city": "Napier"
+  },
+  {
+    "id": "a0d86b5f-fdf4-44d1-b7a2-f418bdb37f4e",
+    "name": "New World Stanmore (Christchurch)",
+    "storeCode": "0000008112",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "a799b706-07b8-4825-9524-95b03c9e0b14",
+    "name": "New World Westend",
+    "storeCode": "0000103096",
+    "region": "Bay of Plenty",
+    "city": "Rotorua"
+  },
+  {
+    "id": "a7c2a0cc-d39d-4b26-93ba-09adaa3a8bf6",
+    "name": "New World Elles Road",
+    "storeCode": "0000008136",
+    "region": "Southland",
+    "city": "Invercargill"
+  },
+  {
+    "id": "ad3ea12c-d9c1-4640-908c-feb9d3c79c11",
+    "name": "New World Inglewood",
+    "storeCode": "0000108049",
+    "region": "Taranaki",
+    "city": "Inglewood"
+  },
+  {
+    "id": "adcd3dee-0ead-4b84-944a-809b95e0e36b",
+    "name": "New World Southmall",
+    "storeCode": "0000106233",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "aed206ae-c0ba-4c81-b7e9-7b420bc3616c",
+    "name": "New World Dannevirke",
+    "storeCode": "0000108005",
+    "region": "Manawatu-Wanganui",
+    "city": "Dannevirke"
+  },
+  {
+    "id": "afbe3446-1f57-4dca-9a58-0c7d5a4a6020",
+    "name": "New World Greymouth",
+    "storeCode": "0000008147",
+    "region": "West Coast",
+    "city": "Greymouth"
+  },
+  {
+    "id": "b007db90-0a16-47d8-9a89-407be8496d9a",
+    "name": "New World Mosgiel",
+    "storeCode": "0000008095",
+    "region": "Otago",
+    "city": "Mosgiel"
+  },
+  {
+    "id": "b012c209-9dfe-48c2-940c-acf73afebed4",
+    "name": "New World Warkworth",
+    "storeCode": "0000106252",
+    "region": "Auckland",
+    "city": "Warkworth"
+  },
+  {
+    "id": "b01a01ac-d6ef-45ef-b9fe-d66036d55b56",
+    "name": "New World Pahiatua",
+    "storeCode": "0000108030",
+    "region": "Manawatu-Wanganui",
+    "city": "Pahiatua"
+  },
+  {
+    "id": "b2f012df-3c55-4bca-98ba-e30c3cd3aa70",
+    "name": "New World Waipukurau",
+    "storeCode": "0000108043",
+    "region": "Hawkes Bay",
+    "city": "Waipukurau"
+  },
+  {
+    "id": "b3158cd8-72b9-40e5-8c4e-abd43c1be305",
+    "name": "New World Bishopdale",
+    "storeCode": "0000008137",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "b42476bd-bded-4c80-827e-e1d587096f54",
+    "name": "New World Ngaruawahia",
+    "storeCode": "0000106516",
+    "region": "Waikato",
+    "city": "Ngaruawahia"
+  },
+  {
+    "id": "b525d98f-8df5-415f-837e-abb793821e1e",
+    "name": "New World Stokes Valley",
+    "storeCode": "0000108036",
+    "region": "Wellington",
+    "city": "Lower Hutt"
+  },
+  {
+    "id": "b6d36090-c7f4-4ff3-9343-5b48159f8f6d",
+    "name": "New World Green Bay",
+    "storeCode": "0000106259",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "b7fe0c9e-24e9-46f2-a59a-95dce1725b06",
+    "name": "New World Motueka",
+    "storeCode": "0000008098",
+    "region": "Tasman",
+    "city": "Motueka"
+  },
+  {
+    "id": "bae1da58-ac6b-4ef2-816d-4932691218d1",
+    "name": "New World St Martins",
+    "storeCode": "0000008003",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "bbe5aa58-69dd-4b29-abe6-58670234b3b7",
+    "name": "New World Tawa",
+    "storeCode": "0000108039",
+    "region": "Wellington",
+    "city": "Wellington"
+  },
+  {
+    "id": "bc0ebd13-e131-4efd-a226-415c40ce8c4e",
+    "name": "New World Ormiston",
+    "storeCode": "0000108233",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "be37802e-1355-466e-9a1b-1ede5a099705",
+    "name": "New World Hastings",
+    "storeCode": "0000108010",
+    "region": "Hawkes Bay",
+    "city": "Hastings"
+  },
+  {
+    "id": "bfe3a4ae-2f6d-46ed-ba60-28451a4807bf",
+    "name": "New World Lincoln",
+    "storeCode": "0000008143",
+    "region": "Canterbury",
+    "city": "Lincoln"
+  },
+  {
+    "id": "c032987b-0387-4fc0-bb44-ce7510e35335",
+    "name": "New World Pukekohe",
+    "storeCode": "0000108222",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "c15270b3-4ced-4b8e-be01-16b9fc31c4c7",
+    "name": "New World Tokoroa",
+    "storeCode": "0000103180",
+    "region": "Waikato",
+    "city": "Tokoroa"
+  },
+  {
+    "id": "c1aaac72-38c0-4cc0-ad05-f241047d88c5",
+    "name": "New World Durham Street",
+    "storeCode": "0000008135",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "c387ac97-5e0a-43ed-9c93-f1edccda298d",
+    "name": "New World Botany",
+    "storeCode": "0000106687",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "c3a42e9d-ac58-4abf-be43-17920c720540",
+    "name": "New World Stonefields",
+    "storeCode": "0000106614",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "c3f80f70-0ad3-409a-b60a-9eac6ad38681",
+    "name": "New World The Sands",
+    "storeCode": "0000108325",
+    "region": "Bay of Plenty",
+    "city": "Tauranga"
+  },
+  {
+    "id": "c4d78c33-1f9c-4039-8cd5-82ddb43fbe16",
+    "name": "New World Whangamata",
+    "storeCode": "0000106696",
+    "region": "Waikato",
+    "city": "Whangamata"
+  },
+  {
+    "id": "c570bb70-c783-4692-aee1-6a1b235f9476",
+    "name": "New World Papatoetoe",
+    "storeCode": "0000106047",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "c6abac35-b75f-4a02-9b43-7ad5a7c7aa37",
+    "name": "New World Ilam",
+    "storeCode": "0000008096",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "c78b7034-7f10-480a-b502-2e5c4066a790",
+    "name": "New World Levin",
+    "storeCode": "0000108018",
+    "region": "Manawatu-Wanganui",
+    "city": "Levin"
+  },
+  {
+    "id": "c8998066-d39b-401c-aa6b-d6d18f8d122f",
+    "name": "New World New Lynn",
+    "storeCode": "0000106583",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "ca27a97f-03d4-4969-9400-e3af61c99816",
+    "name": "New World Gore",
+    "storeCode": "0000008138",
+    "region": "Southland",
+    "city": "Gore"
+  },
+  {
+    "id": "cb3f240a-a157-490c-9e80-f537d202ef49",
+    "name": "New World Howick",
+    "storeCode": "0000106731",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "d0914aa0-ab30-4354-a223-6ba9ef6069c1",
+    "name": "New World Windsor",
+    "storeCode": "0000008070",
+    "region": "Southland",
+    "city": "Invercargill"
+  },
+  {
+    "id": "d4408e0f-5268-42c2-ba76-2bc9732d4316",
+    "name": "New World Island Bay",
+    "storeCode": "0000108014",
+    "region": "Wellington",
+    "city": "Wellington"
+  },
+  {
+    "id": "d48eba45-0c1c-4f5d-b836-0ed54b45c99c",
+    "name": "New World Kerikeri",
+    "storeCode": "0000105029",
+    "region": "Northland",
+    "city": "Kerikeri"
+  },
+  {
+    "id": "d4f24174-f962-4db1-9024-75495bb2dfbb",
+    "name": "New World Churton Park",
+    "storeCode": "0000108004",
+    "region": "Wellington",
+    "city": "Wellington"
+  },
+  {
+    "id": "d83b5f5e-db6e-4696-823e-5940493ef41c",
+    "name": "New World Temuka",
+    "storeCode": "0000008146",
+    "region": "Canterbury",
+    "city": "Temuka"
+  },
+  {
+    "id": "d999418f-c2ca-4748-b56b-15ee82c6e85e",
+    "name": "New World Havelock North",
+    "storeCode": "0000108327",
+    "region": "Hawkes Bay",
+    "city": "Havelock North"
+  },
+  {
+    "id": "dae2d4e3-9b97-41f4-a969-4eded0bd3554",
+    "name": "New World Mt Albert",
+    "storeCode": "0000108333",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "dbdfdd2a-55f7-4870-9b51-979286323647",
+    "name": "New World Browns Bay",
+    "storeCode": "0000106091",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "de5595ab-1d28-46c6-9e9a-b1c3db1af827",
+    "name": "New World Mount Maunganui",
+    "storeCode": "0000103317",
+    "region": "Bay of Plenty",
+    "city": "Mount Maunganui"
+  },
+  {
+    "id": "e197b67e-2cf9-4bae-bae5-5b8ffdccfa87",
+    "name": "New World Kaiapoi",
+    "storeCode": "0000008145",
+    "region": "Canterbury",
+    "city": "Kaiapoi"
+  },
+  {
+    "id": "e2852742-1bb5-42a5-8635-4c4e7c7cb758",
+    "name": "New World Marton",
+    "storeCode": "0000108019",
+    "region": "Manawatu-Wanganui",
+    "city": "Marton"
+  },
+  {
+    "id": "e3a57a0b-156f-4994-a06a-921df65c20cc",
+    "name": "New World Stoke",
+    "storeCode": "0000008109",
+    "region": "Nelson",
+    "city": "Nelson"
+  },
+  {
+    "id": "e42fdd7c-6a4e-48d5-964c-5654fd36992b",
+    "name": "New World Opotiki",
+    "storeCode": "0000103118",
+    "region": "Bay of Plenty",
+    "city": "Opotiki"
+  },
+  {
+    "id": "ebcc2edb-73bd-4d8e-b6f3-528849677b62",
+    "name": "New World Foxton",
+    "storeCode": "0000108008",
+    "region": "Manawatu-Wanganui",
+    "city": "FOXTON"
+  },
+  {
+    "id": "edc986dd-a28c-4fbe-899d-5680d51f584d",
+    "name": "New World Brookfield",
+    "storeCode": "0000103244",
+    "region": "Bay of Plenty",
+    "city": "Tauranga"
+  },
+  {
+    "id": "ef977d89-f3d8-4e8b-8a48-b895ded38646",
+    "name": "New World Papakura",
+    "storeCode": "0000108172",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "f0c21eab-1919-4cba-ac00-5b795947cdcb",
+    "name": "New World Long Bay",
+    "storeCode": "0000108226",
+    "region": "Auckland",
+    "city": "Auckland"
+  },
+  {
+    "id": "f145f120-ba19-4524-9fc5-e8caf516e209",
+    "name": "New World Kawerau",
+    "storeCode": "0000103009",
+    "region": "Bay of Plenty",
+    "city": "Kawerau"
+  },
+  {
+    "id": "f54433e6-5c6c-41b9-a5e2-d7502f454da8",
+    "name": "New World Kapiti",
+    "storeCode": "0000108015",
+    "region": "Wellington",
+    "city": "Paraparaumu"
+  },
+  {
+    "id": "f5da324f-f415-4c8d-a360-ea8d2c74d49b",
+    "name": "New World Whitby",
+    "storeCode": "0000108048",
+    "region": "Wellington",
+    "city": "Porirua"
+  },
+  {
+    "id": "f7f6ce3e-c7f6-459a-8466-e29d868257d1",
+    "name": "New World Ravenswood",
+    "storeCode": "0000008088",
+    "region": "Canterbury",
+    "city": "Woodend"
+  },
+  {
+    "id": "f95243ac-bfc9-483a-b10a-b681f4fc4ba2",
+    "name": "New World Te Puke",
+    "storeCode": "0000103231",
+    "region": "Bay of Plenty",
+    "city": "Te Puke"
+  },
+  {
+    "id": "fc91d59f-6ab5-4447-8737-125e09e8e50e",
+    "name": "New World Ferry Road",
+    "storeCode": "0000008105",
+    "region": "Canterbury",
+    "city": "Christchurch"
+  },
+  {
+    "id": "ff528de5-233a-4cf6-a3a9-bc140565367e",
+    "name": "New World Three Parks",
+    "storeCode": "0000008077",
+    "region": "Otago",
+    "city": "Wanaka"
+  },
+  {
+    "id": "ff680fec-3a34-4666-99ed-ab1a9d1c6ba0",
+    "name": "New World Newtown",
+    "storeCode": "0000108026",
+    "region": "Wellington",
+    "city": "Wellington"
+  }
+]
