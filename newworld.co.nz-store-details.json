@@ -1417,7 +1417,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -1580,7 +1584,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -1661,7 +1669,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -2162,7 +2174,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -2330,7 +2346,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -3342,7 +3362,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -3922,7 +3946,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -4004,7 +4032,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -4674,7 +4706,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -5009,7 +5045,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -7924,7 +7964,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -9008,7 +9052,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -10856,7 +10904,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -11109,7 +11161,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -11523,7 +11579,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
@@ -11946,7 +12006,11 @@
       "countryName": "New Zealand"
     },
     "deliverySubscriptionProperties": {
-      "available": false
+      "available": false,
+      "fan": "5338167",
+      "entitlementFan": "5348507",
+      "price": 24,
+      "minimumSpend": 80
     },
     "minimumOrderAmountInCents": 100
   },
