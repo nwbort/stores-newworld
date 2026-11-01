@@ -54,9 +54,9 @@
   "phone": "0800 4 NEW WORLD",
   "localPhone": "034774677",
   "linkDetails": {
-    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/8117/liquor-license.pdf"
+    "liquorLicenseUrl": "https://s3-ap-southeast-2.amazonaws.com/prod-prod-grability-bucket/documents/000000/8153/liquor-license.pdf"
   },
-  "physicalStoreCode": "0000008117",
+  "physicalStoreCode": "0000008153",
   "region": "SI",
   "salesOrgId": "11",
   "onboardingMode": false,
