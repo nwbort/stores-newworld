@@ -4878,13 +4878,13 @@
       {
         "day": "SATURDAY",
         "dayShort": "Sat",
-        "open": "9:30 AM",
+        "open": "8:30 AM",
         "close": "9:00 PM"
       },
       {
         "day": "SUNDAY",
         "dayShort": "Sun",
-        "open": "9:30 AM",
+        "open": "8:30 AM",
         "close": "9:00 PM"
       }
     ],
